@@ -1,0 +1,551 @@
+Index_Date,Prompt & Summary,Temperature (°C)
+2024-01-01 00:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961101-11:00: Condition is Smoke, temperature is 30.0°C, humidity is 27.0%, wind from West at 7.4 km/h.
+
+📝 Summary:
+
+The weather at 11:00 on November 1, 1996, is characterized by smoky conditions with a temperature of 30.0°C. The humidity is relatively low at 27.0%, and there is a light breeze coming from the West at 7.4 km/h
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 01:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961101-16:00: Condition is Smoke, temperature is 23.0°C, humidity is 47.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 16:00 on November 1, 1996, is characterized by smoky conditions with a temperature of 23.0°C and humidity at 47.0%. The wind is calm, coming from the North at 0.0 km/h. Stay indoors if possible
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 02:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961101-18:00: Condition is Smoke, temperature is 21.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 18:00 on November 1, 1996, is characterized by smoky conditions with a temperature of 21.0°C. The humidity is at 60.0% and the wind is coming from the North at 0.0 km/h. Please take precautions
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 03:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-02:00: Condition is Smoke, temperature is 20.0°C, humidity is 52.0%, wind from SSW at 9.3 km/h.
+
+📝 Summary:
+
+The weather at 02:00 on November 2, 1996, is smoky with a temperature of 20.0°C. The humidity is at 52.0% and there is a light wind coming from the south-southwest at 9.3 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 04:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-03:00: Condition is Smoke, temperature is 22.0°C, humidity is 46.0%, wind from WSW at 9.3 km/h.
+
+📝 Summary:
+
+The weather at 03:00 on November 2nd, 1996 is smoky with a temperature of 22.0°C. Humidity is at 46.0% and there is a light wind coming from the west-southwest at 9.3 km/h. Stay
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 05:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-04:00: Condition is Smoke, temperature is 23.0°C, humidity is 44.0%, wind from WSW at 20.4 km/h.
+
+📝 Summary:
+
+The weather on November 2nd at 4:00 AM is smoky with a temperature of 23.0°C and humidity at 44.0%. The wind is coming from the west-southwest at 20.4 km/h. Please take precautions if you are sensitive to smoke
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 06:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-05:00: Condition is Smoke, temperature is 26.0°C, humidity is 39.0%, wind from WSW at 13.0 km/h.
+
+📝 Summary:
+
+The weather on November 2nd at 5:00 AM is characterized by smoke with a temperature of 26.0°C and humidity at 39.0%. The wind is coming from the west-southwest at 13.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 07:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-06:00: Condition is Clear, temperature is 28.0°C, humidity is 32.0%, wind from West at 16.7 km/h.
+
+📝 Summary:
+
+The weather at 06:00 on November 2nd, 1996 is clear with a temperature of 28.0°C. Humidity is at 32.0% and there is a westerly wind blowing at 16.7 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 08:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-07:00: Condition is Clear, temperature is 30.0°C, humidity is 29.0%, wind from WSW at 22.2 km/h.
+
+📝 Summary:
+
+The weather on November 2nd at 7:00 AM is clear with a temperature of 30.0°C. Humidity is at 29.0% and there is a moderate wind coming from the WSW at 22.2 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 09:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-08:00: Condition is Clear, temperature is 31.0°C, humidity is 24.0%, wind from West at 18.5 km/h.
+
+📝 Summary:
+
+The weather at 08:00 on November 2, 1996, is clear with a temperature of 31.0°C. Humidity is relatively low at 24.0%, and there is a moderate westerly wind blowing at 18.5 km/h. Overall, it
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 10:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-09:00: Condition is Clear, temperature is 31.0°C, humidity is 22.0%, wind from West at 22.2 km/h.
+
+📝 Summary:
+
+The weather at 09:00 on November 2nd, 1996 is clear with a temperature of 31.0°C. Humidity is low at 22.0% and there is a strong wind coming from the West at 22.2 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 11:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-10:00: Condition is Clear, temperature is 31.0°C, humidity is 22.0%, wind from West at 14.8 km/h.
+
+📝 Summary:
+
+The weather at 10:00 on November 2, 1996, is clear with a temperature of 31.0°C. Humidity is at 22.0% and there is a westerly wind blowing at 14.8 km/h. It is a warm and dry
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 12:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-11:00: Condition is Smoke, temperature is 30.0°C, humidity is 25.0%, wind from West at 14.8 km/h.
+
+📝 Summary:
+
+The weather at 11:00 on November 2, 1996, is smoky with a temperature of 30.0°C. The humidity is low at 25.0% and there is a moderate westerly wind blowing at 14.8 km/h. Stay indoors if
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 13:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-12:00: Condition is Smoke, temperature is 27.0°C, humidity is 34.0%, wind from NNE at 7.4 km/h.
+
+📝 Summary:
+
+The weather at 12:00 on November 2, 1996, is characterized by smoky conditions with a temperature of 27.0°C. The humidity is relatively low at 34.0%, and there is a light wind coming from the north-northeast at 7.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 14:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-13:00: Condition is Smoke, temperature is 25.0°C, humidity is 41.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 13:00 on November 2, 1996, is characterized by smoky conditions with a temperature of 25.0°C. The humidity is relatively low at 41.0%, and there is no wind to speak of, coming from the North at 0.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 15:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-14:00: Condition is Smoke, temperature is 22.0°C, humidity is 53.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 14:00 on November 2, 1996, is characterized by smoky conditions with a temperature of 22.0°C. The humidity is at 53.0% and the wind is coming from the North at 0.0 km/h. Stay indoors if
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 16:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-16:00: Condition is Smoke, temperature is 19.0°C, humidity is 64.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 16:00 on November 2, 1996, is characterized by smoky conditions with a temperature of 19.0°C. The humidity is at 64.0% and there is no wind, with a light breeze coming from the North at 0.0
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 17:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-17:00: Condition is Smoke, temperature is 20.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 17:00 on November 2, 1996, is smokey with a temperature of 20.0°C. The humidity is at 60.0% and there is no wind, with a light breeze coming from the North at 0.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 18:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-18:00: Condition is Smoke, temperature is 19.0°C, humidity is 64.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 18:00 on November 2, 1996, is characterized by smoke in the air. The temperature is 19.0°C with a humidity level of 64.0%. The wind is calm, coming from the North at 0.0 km/h. Please
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 19:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-19:00: Condition is Smoke, temperature is 19.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 19:00 on November 2, 1996, is smoky with a temperature of 19.0°C. Humidity is at 60.0% and there is no wind coming from the North at 0.0 km/h. Stay indoors if possible due
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 20:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-20:00: Condition is Smoke, temperature is 17.0°C, humidity is 68.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 20:00 on November 2, 1996, is smoky with a temperature of 17.0°C. Humidity is at 68.0% and there is no wind coming from the North at 0.0 km/h. Stay indoors if possible due
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 21:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-21:00: Condition is Smoke, temperature is 17.0°C, humidity is 68.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 21:00 on November 2, 1996, is characterized by smoke in the area. The temperature is 17.0°C with a humidity level of 68.0%. The wind is calm, coming from the North at 0.0 km/h. Please
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 22:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-22:00: Condition is Smoke, temperature is 17.0°C, humidity is 72.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 22:00 on November 2, 1996, is smoky with a temperature of 17.0°C and humidity at 72.0%. The wind is calm, coming from the North at 0.0 km/h. Stay indoors if possible due to the
+
+------------------------------------------------------------
+
+",0.0
+2024-01-01 23:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961102-23:00: Condition is Smoke, temperature is 17.0°C, humidity is 72.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 23:00 on November 2, 1996, is characterized by smoky conditions with a temperature of 17.0°C and humidity at 72.0%. The wind is calm, coming from the North at 0.0 km/h. Stay indoors and take
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 00:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-02:00: Condition is Smoke, temperature is 17.0°C, humidity is 63.0%, wind from SW at 7.4 km/h.
+
+📝 Summary:
+
+The weather at 02:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 17.0°C. The humidity is at 63.0% and there is a light wind coming from the southwest at 7.4 km/h. Stay
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 01:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-03:00: Condition is Smoke, temperature is 19.0°C, humidity is 64.0%, wind from WSW at 7.4 km/h.
+
+📝 Summary:
+
+The weather at 03:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 19.0°C. The humidity is at 64.0% and there is a light wind coming from the west-southwest at 7.4 km
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 02:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-04:00: Condition is Smoke, temperature is 22.0°C, humidity is 53.0%, wind from SW at 9.3 km/h.
+
+📝 Summary:
+
+The weather on November 3rd at 4:00 AM is smoky with a temperature of 22.0°C and humidity at 53.0%. The wind is coming from the southwest at 9.3 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 03:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-05:00: Condition is Smoke, temperature is 22.0°C, humidity is 60.0%, wind from WSW at 9.3 km/h.
+
+📝 Summary:
+
+The weather on November 3rd at 5:00 AM is smoky with a temperature of 22.0°C and humidity at 60.0%. The wind is coming from the west-southwest at 9.3 km/h. Stay indoors and take precautions if you have respiratory
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 04:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-06:00: Condition is Smoke, temperature is 26.0°C, humidity is 44.0%, wind from West at 5.6 km/h.
+
+📝 Summary:
+
+The weather at 06:00 on November 3, 1996, is smoky with a temperature of 26.0°C. The humidity is at 44.0% and there is a light wind coming from the West at 5.6 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 05:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-07:00: Condition is Smoke, temperature is 28.0°C, humidity is 30.0%, wind from West at 24.1 km/h.
+
+📝 Summary:
+
+The weather at 07:00 on November 3rd, 1996 is smoky with a temperature of 28.0°C. The humidity is at 30.0% and there is a strong westerly wind blowing at 24.1 km/h. Stay indoors if possible
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 06:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-08:00: Condition is Smoke, temperature is 28.0°C, humidity is 35.0%, wind from WSW at 11.1 km/h.
+
+📝 Summary:
+
+The weather at 08:00 on November 3, 1996, is smoky with a temperature of 28.0°C and humidity at 35.0%. The wind is coming from the west-southwest at 11.1 km/h. Please take precautions if you are
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 07:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-09:00: Condition is Smoke, temperature is 29.0°C, humidity is 33.0%, wind from West at 14.8 km/h.
+
+📝 Summary:
+
+The weather at 09:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 29.0°C and humidity at 33.0%. The wind is coming from the West at 14.8 km/h. Please take precautions if you are
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 08:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-10:00: Condition is Smoke, temperature is 29.0°C, humidity is 33.0%, wind from West at 11.1 km/h.
+
+📝 Summary:
+
+The weather at 10:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 29.0°C and a humidity level of 33.0%. The wind is coming from the West at a speed of 11.1 km/h. Stay
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 09:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-11:00: Condition is Smoke, temperature is 27.0°C, humidity is 39.0%, wind from West at 5.6 km/h.
+
+📝 Summary:
+
+The weather at 11:00 on November 3, 1996, is characterized by smoke, with a temperature of 27.0°C and humidity at 39.0%. The wind is coming from the West at 5.6 km/h. Please take precautions if you are sensitive
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 10:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-12:00: Condition is Smoke, temperature is 26.0°C, humidity is 42.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 12:00 on November 3, 1996, is characterized by smoke with a temperature of 26.0°C and a humidity level of 42.0%. The wind is calm, coming from the North at 0.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 11:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-13:00: Condition is Smoke, temperature is 22.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 13:00 on November 3, 1996, is smoky with a temperature of 22.0°C. The humidity is at 60.0% and there is no wind coming from the North at 0.0 km/h. Stay indoors if possible due
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 12:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-14:00: Condition is Smoke, temperature is 22.0°C, humidity is 57.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 14:00 on November 3, 1996, is smoky with a temperature of 22.0°C. The humidity is at 57.0% and the wind is coming from the North at 0.0 km/h. Stay indoors if possible and take
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 13:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-15:00: Condition is Smoke, temperature is 21.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 15:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 21.0°C. The humidity is at 60.0% and the wind is coming from the North at 0.0 km/h. Stay indoors if
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 14:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-16:00: Condition is Smoke, temperature is 21.0°C, humidity is 56.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 16:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 21.0°C and a humidity level of 56.0%. The wind is calm, coming from the north at 0.0 km/h. Please take
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 15:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-17:00: Condition is Smoke, temperature is 20.0°C, humidity is 64.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 17:00 on November 3, 1996, is characterized by smoke with a temperature of 20.0°C and a humidity level of 64.0%. The wind is calm, coming from the North at 0.0 km/h. Stay indoors and take
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 16:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-18:00: Condition is Smoke, temperature is 20.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 18:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 20.0°C. The humidity is at 60.0% and there is no wind, with a light breeze coming from the North at 0.0
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 17:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-19:00: Condition is Smoke, temperature is 19.0°C, humidity is 64.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 19:00 on November 3, 1996, is characterized by smoke, with a temperature of 19.0°C and humidity at 64.0%. The wind is coming from the North at 0.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 18:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-20:00: Condition is Smoke, temperature is 19.0°C, humidity is 68.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 20:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 19.0°C. The humidity is at 68.0% and the wind is coming from the North at 0.0 km/h. Please take precautions
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 19:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-21:00: Condition is Smoke, temperature is 19.0°C, humidity is 64.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 21:00 on November 3, 1996, is characterized by smoke, with a temperature of 19.0°C and a humidity level of 64.0%. The wind is calm, coming from the North at 0.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 20:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-22:00: Condition is Smoke, temperature is 17.0°C, humidity is 77.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 22:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 17.0°C and a humidity level of 77.0%. The wind is calm, coming from the North at 0.0 km/h. Stay indoors
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 21:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961103-23:00: Condition is Smoke, temperature is 17.0°C, humidity is 77.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 23:00 on November 3, 1996, is characterized by smoky conditions with a temperature of 17.0°C. The humidity is relatively high at 77.0%, and there is no wind to speak of, with a light breeze coming from the North
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 22:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961104-00:00: Condition is Smoke, temperature is 18.0°C, humidity is 68.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather on November 4, 1996 at 00:00 is characterized by smoky conditions with a temperature of 18.0°C. The humidity is at 68.0% and the wind is calm, coming from the North at 0.0 km/h. Please take
+
+------------------------------------------------------------
+
+",0.0
+2024-01-02 23:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961104-01:00: Condition is Clear, temperature is 15.0°C, humidity is 77.0%, wind from SW at 7.4 km/h.
+
+📝 Summary:
+
+The weather at 01:00 on November 4, 1996, is clear with a temperature of 15.0°C. Humidity is at 77.0% and there is a light breeze coming from the southwest at 7.4 km/h. Overall, it is a
+
+------------------------------------------------------------
+
+",0.0
+2024-01-03 00:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961104-03:00: Condition is Smoke, temperature is 20.0°C, humidity is 60.0%, wind from North at 0.0 km/h.
+
+📝 Summary:
+
+The weather at 03:00 on November 4, 1996, is characterized by smoke with a temperature of 20.0°C and humidity at 60.0%. The wind is calm, coming from the North at 0.0 km/h.
+
+------------------------------------------------------------
+
+",0.0
+2024-01-03 01:00:00,"📌 Prompt:
+
+Write a short weather summary for 19961104-05:00: Condition is Smoke, temperature is 26.0°C, humidity is 42.0%, wind from SSW at 5.6 km/h.
+
+📝 Summary:
+
+The weather on November 4th at 5:00 AM is characterized by smoky conditions with a temperature of 26.0°C and humidity at 42.0%. Winds are coming from the south-southwest at 5.6 km/h.
+
+------------------------------------------------------------
+
+",0.0
